@@ -9,4 +9,5 @@ class Solution:
                 s[i] = s[i] + 1
                 return True
         return False
-        
+
+# https://neetcode.io/problems/duplicate-integer/question
